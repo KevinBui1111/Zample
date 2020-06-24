@@ -14,7 +14,7 @@ namespace ConsoleApplication1
         const string root = "https://www.budsas.org/uni/u-kinh-tieubo10/";
         const string path = @"D:\Docs\Development\C#\1ConsoleApplication\bin\Budsas\5-tieu";
         const string site = "qqqqq.htm";
-        static void Main1()
+        static void Main1()rrrr
         {
             Budsas budsas = new Budsas();
 
