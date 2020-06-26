@@ -9,7 +9,7 @@ namespace ConsoleApplication1
 {
     class AhoCorasick###222222
     {
-        Node root;wwww
+        Node root;wwww S SSSSS
         bool ignore_case = true;
 
         public AhoCorasick(bool ignore_case, params string[] keywords)
