@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     class AhoCorasick
     {
         Node root;
-        bool ignore_case = false;
+        bool ignore_case = true;
 
         public AhoCorasick(bool ignore_case, params string[] keywords)
         {
