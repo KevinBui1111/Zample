@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace ConsoleApplication1
 {
-    class AhoCorasick###
+    class AhoCorasick###222222
     {
         Node root;
         bool ignore_case = true;
