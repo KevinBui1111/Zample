@@ -18,8 +18,6 @@ namespace ConsoleApplication1
             if (ignore_case)
                 for (int i = 0; i < keywords.Length; ++i)
                     keywords[i] = keywords[i].ToLower();
-
-            BuildMatchingMachine(keywords);
         }
 
         void BuildMatchingMachine(string[] words)
